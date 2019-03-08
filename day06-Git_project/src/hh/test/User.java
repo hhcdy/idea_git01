@@ -6,5 +6,9 @@ public class User {
 
     public static void main(String[] args) {
         System.out.println(name + "---" + sex);
+
+        System.out.println("Hello Word!");
+        System.out.println(name + "---" + sex);
+        System.out.println(name + "---" + sex);
     }
 }
